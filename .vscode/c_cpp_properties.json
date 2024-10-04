@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ertugrul/ros2_ws/install/gazebo_diff_drive_plugin/include/**",
+        "/home/ertugrul/ros2_ws/install/diff_drive_controller_v1/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/ertugrul/ros2_ws/src/diff_drive_controller_v1/include/**",
+        "/home/ertugrul/ros2_ws/src/gazebo_diff_drive_controller/include/**",
+        "/home/ertugrul/ros2_ws/src/gazebo_diff_drive_plugin/include/**",
+        "/home/ertugrul/ros2_ws/src/murphy_bot_v2/include/**",
+        "/home/ertugrul/ros2_ws/src/my_diff_drive_robot_v1/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

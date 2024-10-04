@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ertugrul/ros2_ws/install/ros2_onnxruntime_imgclassifier/lib/python3.10/site-packages",
+        "/home/ertugrul/ros2_ws/install/onnxruntime_classifier/lib/python3.10/site-packages",
+        "/home/ertugrul/TensorRT-10.2.0.19/python",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ertugrul/ros2_ws/install/ros2_onnxruntime_imgclassifier/lib/python3.10/site-packages",
+        "/home/ertugrul/ros2_ws/install/onnxruntime_classifier/lib/python3.10/site-packages",
+        "/home/ertugrul/TensorRT-10.2.0.19/python",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
